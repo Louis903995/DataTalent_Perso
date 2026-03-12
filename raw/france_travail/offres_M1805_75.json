@@ -816,49 +816,6 @@
     "employeurHandiEngage": false
   },
   {
-    "id": "0188574",
-    "intitule": "Analyste débutant développeur RPA pour le Secteur Public H/F - Paris",
-    "description": "Vous accompagnerez nos clients sur leurs différents besoins de démocratisation et fourniture de solutions d'automatisation innovantes et tactiques :\nAnalyser et optimiser les processus métier\nDéfinir les cahiers des charges d'automatisation et mettre en place l'infrastructure dédiée\nAssurer le développement, déploiement et la maintenance des assistants digitaux",
-    "dateCreation": "2026-03-12T09:57:45.000Z",
-    "dateActualisation": "2026-03-12T09:57:46.000Z",
-    "lieuTravail": {
-      "libelle": "75 - Paris",
-      "latitude": 48.862155,
-      "longitude": 2.30465,
-      "commune": "75056"
-    },
-    "romeCode": "M1805",
-    "romeLibelle": "Développeur / Développeuse informatique",
-    "appellationlibelle": "Analyste développeur / Analyste développeuse",
-    "entreprise": {
-      "nom": "EY",
-      "entrepriseAdaptee": false
-    },
-    "typeContrat": "CDI",
-    "typeContratLibelle": "CDI",
-    "natureContrat": "Contrat travail",
-    "experienceExige": "D",
-    "experienceLibelle": "Débutant accepté",
-    "salaire": {},
-    "alternance": false,
-    "nombrePostes": 1,
-    "accessibleTH": false,
-    "origineOffre": {
-      "origine": "2",
-      "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/0188574",
-      "partenaires": [
-        {
-          "nom": "DOGFINANCE",
-          "url": "https://dogfinance.com/offre/ey/analyste-debutant-developpeur-rpa-pour-le-secteur-public-hf---paris38707?utm_source=poleemploi&utm_medium=site&utm_campaign=poleemploi",
-          "logo": "https://www.francetravail.fr/logos/img/partenaires/dogfinance80.png"
-        }
-      ]
-    },
-    "contexteTravail": {},
-    "entrepriseAdaptee": false,
-    "employeurHandiEngage": false
-  },
-  {
     "id": "0149880",
     "intitule": "DÉVELOPPEUR JAVA H/F - H/F",
     "description": "Description :\n\n\nPour soutenir notre forte croissance, nous recherchons un·e Développeur·euse Java au sein de notre équipe R&D.\n\nAttaché(e) à la Team Lead Access Manager vous développerez les fonctionnalités Portal de notre « Bastion » sur JAVA (JAVA8). L’Access Manager est une application Web qui permet l’accès aux targets à distance via le navigateur, sans passer par des clients lourds : les protocoles RDP et SSH sont utilisés.\n\nL’Access Manager est vendu avec le Bastion, notre produit phare, et a commencé à être développé il y a 15 ans.\n\nAu sein de l’équipe Access Manager composée de 7 personnes basées entre Paris et Rennes, votre rôle sera d’œuvrer pour l’amélioration continue de l’AM, la réduction de sa dette technique et le développement de nouvelles fonctionnalités.\n\nDans ce cadre, vos missions seront :\n\n\t*\nDéveloppement d’application Web ;\n\n\t*\nGestion de Bases de données (MariaDB) ;\n\n\t*\nGestion d’Authentifications (MFA, Kerberos, RADIUS, LDAP / Active Directory…) ;\n\n\t*\nRefonte complète de l’interface graphique;\n\n\t*\nDéveloppement d’une nouvelle API Rest.\n\n\n\t\t\n\t\t\nProfil recherché :\n\t\t\n\t\t\nEXPÉRIENCE\n\n\t*\n5 à 7 ans d’expérience\n\n\t*\nMaîtrise de javascript, Java et React\n\n\t*\nExpert base de données\n\n\t*\nbonne vision de tous les aspects d’une infrastructure informatique\n\nSOFT SKILLS\n\n\t*\ncurieux, envie d’apprendre\n\n\t*\nforce de proposition\n\n \n\nWALLIX, C’EST AUSSI :\n\n- Un environnement structuré… qui n’a pas perdu son âme de start-up\n\n- Une évolution à double sens : vous évoluez avec nous… et nous évoluons avec vous\n\n- Une entreprise « à taille humaine », qui place l’intégration et l’épanouissement de ses « Wallixien(ne)s » au cœur de ses préoccupations\n\n\t*\nLABEL HAPPY AT WORK 2020, 2021, 2022 et 2024\n\n\t*\nSéminaire d’intégration & déjeuner, Kick-Off dans de belles destinations ou en remote\n\n\t*\nCHARTE DU TÉLÉTRAVAIL (2 jours par semaine), 25 JOURS de congés payés & 12 RTT (1 par mois)\n\n\t*\nPossibilité de mobilité interne pour explorer de nouveaux défis,\n\n\t*\nParticipation à 50 % des frais de transport\n\n\t*\nMutuelle et prévoyance\n\n\t*\nPrime de vacances\n\n\t*\nCARTE SWILE avec une provision de 10,5 € par jour (50 % de contribution de l’employé)\n\n\t*\nCSE\n\n\t*\nBonne humeur et super équipe !\n\nIF YOU’RE UP FOR THIS EXCITING CHALLENGE, GET READY TO EMBARK ON A THRILLING ADVENTURE IN THE WORLD OF TECHNOLOGY AT WALLIX !\n",
@@ -1586,10 +1543,10 @@
   },
   {
     "id": "9035927",
-    "intitule": "Analyste débutant développeur RPA pour le Secteur Public H/F - Paris",
-    "description": "Rejoignez l'équipe Secteur Public d'EY Consulting pour accompagner nos clients du secteur public dans leur transformation stratégique vers une croissance économique durable et un meilleur environnement professionnel.\nNotre équipe de managers hautement qualifiés et expérimentés forme nos équipes aux nouvelles méthodes et outils, leur permettant ainsi d'être rapidement opérationnelle.\nGrâce à notre réseau international de compétences et de partenariats, nous identifions les meilleures technologies adaptées aux besoins spécifiques de nos clients, quel que soit leur secteur d'activité et leurs processus.\nPour faire face aux besoins de nos clients et à notre ambition de croissance au sein de notre expertise, nous recrutons des Consultants F/H analyste débutant développeur RPA pour le Secteur Public à Paris.\nVous rejoindrez une équipe dynamique, enthousiaste et multiculturelle et vous aurez l'occasion d'intervenir sur des projets transformatifs innovants.\nVos missions :\nVous accompagnerez nos clients sur leurs différents besoins de démocratisation et fourniture de solutions d'automatisation innovantes et tactiques :\nAnalyser et optimiser les processus métier\nDéfinir les cahiers des charges d'automatisation et mettre en place l'infrastructure dédiée\nAssurer le développement, déploiement et la maintenance des assistants digitaux",
+    "intitule": "Analyste débutant(e) en développement RPA pour le Secteur Public F/H - Paris (H/F)",
+    "description": "Chez EY, nous sommes « All in » pour façonner votre avenir en toute confiance. Ensemble, nous orienterons votre carrière selon vos aspirations. Rejoignez EY et contribuez à construire un monde meilleur.\nNotre Opportunité :\nRejoignez l'équipe Secteur Public d'EY Consulting pour accompagner nos clients du secteur public dans leur transformation stratégique vers une croissance économique durable et un meilleur environnement professionnel.\nNotre équipe de managers hautement qualifiés et expérimentés forme nos équipes aux nouvelles méthodes et outils, leur permettant ainsi d'être rapidement opérationnelle.\nGrâce à notre réseau international de compétences et de partenariats, nous identifions les meilleures technologies adaptées aux besoins spécifiques de nos clients, quel que soit leur secteur d'activité et leurs processus.\nPour faire face aux besoins de nos clients et à notre ambition de croissance au sein de notre expertise, nous recrutons des Consultants F/H analyste débutant(e) en développement RPA pour le Secteur Public à Paris.\nVous rejoindrez une équipe dynamique, enthousiaste et multiculturelle et vous aurez l'occasion d'intervenir sur des projets transformatifs innovants.\nVos principales responsabilités :\nVous accompagnerez nos clients sur leurs différents besoins de démocratisation et fourniture de solutions d'automatisation innovantes et tactiques :\nAnalyser et optimiser les processus métier\nDéfinir les cahiers des charges d'automatisation et mettre en place l'infrastructure dédiée\nAssurer le développement, déploiement et la maintenance des assistants digitaux",
     "dateCreation": "2026-02-12T04:22:25.000Z",
-    "dateActualisation": "2026-02-24T05:30:08.000Z",
+    "dateActualisation": "2026-03-12T10:17:13.000Z",
     "lieuTravail": {
       "libelle": "75 - Paris",
       "latitude": 48.862155,
@@ -1618,7 +1575,7 @@
       "partenaires": [
         {
           "nom": "DOGFINANCE",
-          "url": "https://dogfinance.com/offre/ey/analyste-debutant-developpeur-rpa-pour-le-secteur-public-hf---paris39167?utm_source=poleemploi&utm_medium=site&utm_campaign=poleemploi",
+          "url": "https://dogfinance.com/offre/ey/analyste-debutante-en-developpement-rpa-pour-le-secteur-public-fh---paris?utm_source=poleemploi&utm_medium=site&utm_campaign=poleemploi",
           "logo": "https://www.francetravail.fr/logos/img/partenaires/dogfinance80.png"
         }
       ]
